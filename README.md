@@ -1,7 +1,7 @@
 # Video Demonstration
 Will be posted soon (posting this note on Nov 4th)
 # Overview
-In this portfolio piece, I'll be demonstrating some rudimentary API testing using Trello's API, as well as a brief item for OAuth 2.0 (which won't be using Trello).
+In this portfolio piece, I'll be demonstrating some rudimentary API testing with Postman, using Trello's API, as well as a brief item for OAuth 2.0 (which won't be using Trello).
 
 I have left brief comments in the code script, as well as in the Comments sidebar within Postman. There is a menu option for "Documentation," but since this doesn't exist for Collections, I decided to just consistently leave these notes in the same general place.
 
