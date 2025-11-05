@@ -6,7 +6,7 @@ In this portfolio piece, I'll be demonstrating some rudimentary API testing with
 I have left brief comments in the code script, as well as in the Comments sidebar within Postman. There is a menu option for "Documentation," but since this doesn't exist for Collections, I decided to just consistently leave these notes in the same general place.
 
 # Installation & Setup
-To start with, prepare an installation of Playwright, then download the JSON files attached here. First, we'll go through the Trello setup.
+To start with, prepare an installation of Postman, then download the JSON files attached here. First, we'll go through the Trello setup.
 1. Go to [Trello's main site and create an account](https://trello.com/). We'll be utilizing a free account, and the only limitation (which shouldn't come up in this test suite) is easy to address. It limits us to 10 boards, but these can be removed manually or via using DELETE API calls (which I've included here).
 
 2. After this is done, go to [Trello's Power-Up Admin Panel](https://trello.com/power-ups/admin/). From the Power-Ups page, select "New" and populate the fields in the subsequent window as you'd like. Be sure to specify the workspace, as that is mandatory.
