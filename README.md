@@ -1,5 +1,7 @@
+NOTE: Video will be uploaded next week (Nov 10-14). Draft Postman JSON is uploaded for now. Will finalize it prior to recording video demo.
+
 # Video Demonstration
-Will be posted soon (posting this note on Nov 4th)
+
 # Overview
 In this portfolio piece, I'll be demonstrating some rudimentary API testing with Postman, using Trello's API. For an OAuth 2.0 demonstration, see [this brief project](https://github.com/mhoepf84/OAuth-2.0-Access-Demo).
 
