@@ -1,4 +1,4 @@
-NOTE: Video will be uploaded next week (Nov 10-14). Draft Postman JSON is uploaded for now. Will finalize it prior to recording video demo.
+NOTE: Video will be recorded/uploaded at some point in late November. Draft Postman JSON is uploaded for now. Will finalize it prior to recording video demo.
 
 # Video Demonstration
 
